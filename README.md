@@ -9,7 +9,8 @@ lol
 
 #### new vs oldcomputers
 ### the colossus computer 
-https://upload.wikimedia.org/wikipedia/commons/1/14/Colossus_Computer%2C_Bletchley_Park_-_geograph.org.uk_-_1590854.jpg
+![bluet](https://upload.wikimedia.org/wikipedia/commons/1/14/Colossus_Computer%2C_Bletchley_Park_-_geograph.org.uk_-_1590854.jpg)
+
 This compter made in 1943
 Processor :5,000 letter per sec procceing power.
 
@@ -20,7 +21,7 @@ Processor :5,000 letter per sec procceing power.
 - It was a codbraeking computer
 
 #### *the surface labtop 4*
-https://www.digitaltrends.com/wp-content/uploads/2021/04/surface-laptop-4-4.jpeg?p=1
+![e](https://www.digitaltrends.com/wp-content/uploads/2021/04/surface-laptop-4-4.jpeg?p=1)
 this copmputer has a Processor	AMD Ryzen 5 Microsoft Surface (R) Edition, 2201 Mhz, 6 Core(s), 12 Logical Processor(s)
 and has 117 gb storage 
 has  100 ram 
