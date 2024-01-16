@@ -11,8 +11,8 @@ lol
 ### the colossus computer 
 ![bluet](https://upload.wikimedia.org/wikipedia/commons/1/14/Colossus_Computer%2C_Bletchley_Park_-_geograph.org.uk_-_1590854.jpg)
 
-This compter made in 1943
-Processor :5,000 letter per sec procceing power.
+##This compter made in 1943
+#Processor :5,000 letter per sec procceing power.
 
 - Storage 1mg
 
